@@ -1,0 +1,6 @@
+{
+  "name": "BoxMan 3D Character & Pose Studio",
+  "description": "Interactive 3D character customization and animation/pose editor for BoxMan with bone posing, keyframe animation, materials, accessories, and studio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
